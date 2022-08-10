@@ -1,0 +1,12 @@
+@import "./app/component/common/header.scss";
+@import "./app/component/ui/weatherCard.scss";
+@import "./app/component/common/body.scss";
+@import "./app/component/ui/modal.scss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  p {
+    margin: 0;
+  }
+}
